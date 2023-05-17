@@ -1,0 +1,123 @@
+[
+    {
+        "id": "amd-01",
+        "titulo": "RX 550",
+        "imagen": "./img/amd/001.jpg",
+        "categoria": {
+            "nombre": "Amd-01",
+            "id": "amd-01"
+        },
+        "precio": 600
+    },
+    {
+        "id": "amd-01",
+        "titulo": "RX 6550 XT",
+        "imagen": "./img/amd/002.jpg",
+        "categoria": {
+            "nombre": "Amd-01",
+            "id": "amd-01"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "amd-01",
+        "titulo": "RX 6550 XT",
+        "imagen": "./img/amd/003.jpg",
+        "categoria": {
+            "nombre": "Amd-01",
+            "id": "amd-01"
+        },
+        "precio": 1400
+    },
+    {
+        "id": "amd-01",
+        "titulo": "RX 6800 XT",
+        "imagen": "./img/amd/004.jpg",
+        "categoria": {
+            "nombre": "Amd-01",
+            "id": "amd-01"
+        },
+        "precio": 1800
+    },
+    {
+        "id": "nvidia-01",
+        "titulo": "GTX 1660 Ti",
+        "imagen": "./img/nvidia/005.jpg",
+        "categoria": {
+            "nombre": "Nvidia-01",
+            "id": "nvidia-01"
+        },
+        "precio": 800
+    },
+    {
+        "id": "nvidia-01",
+        "titulo": "RTX 3080 Ti",
+        "imagen": "./img/nvidia/006.jpg",
+        "categoria": {
+            "nombre": "Nvidia-01",
+            "id": "nvidia-01"
+        },
+        "precio": 1900
+    },
+    {
+        "id": "nvidia-03",
+        "titulo": "RTX 4080 Ti",
+        "imagen": "./img/nvidia/007.jpg",
+        "categoria": {
+            "nombre": "Nvidia-01",
+            "id": "nvidia-01"
+        },
+        "precio": 2100
+    },
+    {
+        "id": "nvidia-04",
+        "titulo": "RTX 2060 Ti",
+        "imagen": "./img/nvidia/008.jpg",
+        "categoria": {
+            "nombre": "Nvidia-01",
+            "id": "nvidia-01"
+        },
+        "precio": 1300
+    },
+
+    {
+        "id": "usadas-01",
+        "titulo": "GTX 1050",
+        "imagen": "./img/usadas/009.jpg",
+        "categoria": {
+            "nombre": "Usadas",
+            "id": "usadas"
+        },
+        "precio": 600
+    },
+    {
+        "id": "usadas-02",
+        "titulo": "5500 XT",
+        "imagen": "./img/usadas/010.jpg",
+        "categoria": {
+            "nombre": "Usadas",
+            "id": "usadas"
+        },
+        "precio": 700
+    },
+    {
+        "id": "usadas-03",
+        "titulo": "GTX 750Ti",
+        "imagen": "./img/usadas/011.jpg",
+        "categoria": {
+            "nombre": "Usadas",
+            "id": "usadas"
+        },
+        "precio": 400
+    },
+    {
+        "id": "usadas-04",
+        "titulo": "RX 460",
+        "imagen": "./img/usadas/012.jpg",
+        "categoria": {
+            "nombre": "Usadas",
+            "id": "usadas"
+        },
+        "precio": 350
+    }
+]
